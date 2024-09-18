@@ -3,7 +3,7 @@ Liste des presences
 1 https://github.com/carmel26/FIBetMkt
 
 1. Mediatriace FIB
-2. Zilfa FIB 
+2. Zilfat FIB 
 3. Euclide FIB
 4. Alphonsine FIB 
 5. Paul FIB 
@@ -33,3 +33,4 @@ Liste des presences
 29. Venise FIB 
 30. Martine FIB
 31. Matilde FIB
+32. Liliane FIB
